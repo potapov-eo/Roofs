@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Roofs/static/css/main.ec41de44.chunk.css",
+    "main.js": "/Roofs/static/js/main.8af048ce.chunk.js",
+    "main.js.map": "/Roofs/static/js/main.8af048ce.chunk.js.map",
+    "runtime-main.js": "/Roofs/static/js/runtime-main.e6817e41.js",
+    "runtime-main.js.map": "/Roofs/static/js/runtime-main.e6817e41.js.map",
+    "static/css/2.00b27c74.chunk.css": "/Roofs/static/css/2.00b27c74.chunk.css",
+    "static/js/2.0bb8598e.chunk.js": "/Roofs/static/js/2.0bb8598e.chunk.js",
+    "static/js/2.0bb8598e.chunk.js.map": "/Roofs/static/js/2.0bb8598e.chunk.js.map",
+    "static/js/3.a2de33b2.chunk.js": "/Roofs/static/js/3.a2de33b2.chunk.js",
+    "static/js/3.a2de33b2.chunk.js.map": "/Roofs/static/js/3.a2de33b2.chunk.js.map",
+    "index.html": "/Roofs/index.html",
+    "static/css/2.00b27c74.chunk.css.map": "/Roofs/static/css/2.00b27c74.chunk.css.map",
+    "static/css/main.ec41de44.chunk.css.map": "/Roofs/static/css/main.ec41de44.chunk.css.map",
+    "static/js/2.0bb8598e.chunk.js.LICENSE.txt": "/Roofs/static/js/2.0bb8598e.chunk.js.LICENSE.txt",
+    "static/media/1арх виз.5e9d8cd6.jpg": "/Roofs/static/media/1арх виз.5e9d8cd6.jpg",
+    "static/media/2арх1 рисунок2.03d07bee.jpg": "/Roofs/static/media/2арх1 рисунок2.03d07bee.jpg",
+    "static/media/3арх 1 рисунок3.d7eb13c5.jpg": "/Roofs/static/media/3арх 1 рисунок3.d7eb13c5.jpg",
+    "static/media/арх 2-Рис 5.b742393e.jpg": "/Roofs/static/media/арх 2-Рис 5.b742393e.jpg",
+    "static/media/арх 3-Рисунок 2.75ee33a0.jpg": "/Roofs/static/media/арх 3-Рисунок 2.75ee33a0.jpg",
+    "static/media/арх 3-Рисунок 3.95db3e07.jpg": "/Roofs/static/media/арх 3-Рисунок 3.95db3e07.jpg",
+    "static/media/Header.module.css": "/Roofs/static/media/арх 3-Рисунок 4.a725ce5c.jpg",
+    "static/media/сруб - Рисунок1.324edf35.jpg": "/Roofs/static/media/сруб - Рисунок1.324edf35.jpg",
+    "static/media/сруб-Рисунок2_.5b131b0f.jpg": "/Roofs/static/media/сруб-Рисунок2_.5b131b0f.jpg",
+    "static/media/сруб-Рисунок4 (3).e043c1c8.jpg": "/Roofs/static/media/сруб-Рисунок4 (3).e043c1c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6817e41.js",
+    "static/css/2.00b27c74.chunk.css",
+    "static/js/2.0bb8598e.chunk.js",
+    "static/css/main.ec41de44.chunk.css",
+    "static/js/main.8af048ce.chunk.js"
+  ]
+}
