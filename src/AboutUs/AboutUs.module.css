@@ -2,7 +2,7 @@
     background-color: #bdbdbd;
     display: flex;
     justify-content: center;
-
+height: 100%;
 }
 
 .AboutUs__content {

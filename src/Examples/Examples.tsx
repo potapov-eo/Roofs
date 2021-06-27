@@ -10,10 +10,10 @@ import pic7 from "../assets/image/2/сруб-Рисунок4 (3).jpg";
 import pic8 from "../assets/image/3/1арх виз.jpg";
 import pic9 from "../assets/image/3/2арх1 рисунок2.jpg";
 import pic10 from "../assets/image/3/3арх 1 рисунок3.jpg";
-import pic11 from "../assets/image/3/3арх 1 рисунок3.jpg";
-import pic12 from "../assets/image/3/3арх 1 рисунок3.jpg";
-import pic13 from "../assets/image/3/3арх 1 рисунок3.jpg";
-import pic14 from "../assets/image/3/3арх 1 рисунок3.jpg";
+import pic11 from "../assets/image/4/арх футур-Рисунок2_.jpg";
+import pic12 from "../assets/image/4/арх футур-Рисунок3.jpg";
+import pic13 from "../assets/image/4/арх футур-Рисунок4.jpg";
+import pic14 from "../assets/image/4/арх футур-Рисунок5.jpg";
 import Grid from '@material-ui/core/Grid';
 import Slider from "./Slider/Slider";
 

@@ -2,13 +2,14 @@
     background-color: #daddde;
     display: flex;
     justify-content: center;
+    height: 100%;
 }
 
 .container__pics {
 }
 
 .example:nth-child(odd) {
-    background: #bfc7d5;
+    background: #2cb5c6;
 }
 
 .example {
