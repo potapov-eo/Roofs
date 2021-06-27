@@ -1,0 +1,8 @@
+.example__picContainer {
+    overflow: hidden;
+    padding: 5px;
+    height: 100%;
+}
+.example__pic {
+    width: 100%;
+}

@@ -1,0 +1,57 @@
+.examples {
+    background-color: #daddde;
+    display: flex;
+    justify-content: center;
+}
+
+.container__pics {
+}
+
+.example:nth-child(odd) {
+    background: #bfc7d5;
+}
+
+.example {
+    background-color: #b3f1ff;
+}
+
+.example__title {
+    color: #ffe;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.example__pics {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.example__picContainer {
+
+}
+
+.example__pic {
+    width: 100%;
+}
+
+.container__slider {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 100vw;
+}
+
+@media screen and (max-width: 959px) {
+    .container {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 959px) {
+    .container__slider {
+        display: none;
+    }
+}
