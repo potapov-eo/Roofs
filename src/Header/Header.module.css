@@ -28,7 +28,8 @@
     font-weight: bold;
     color: #ffb400;
     letter-spacing: 10px;
-    font-style: italic;
+    font-style:  italic;
+    text-shadow: 5px 5px 5px #848484 !important;
     text-align: center;
 }
 
