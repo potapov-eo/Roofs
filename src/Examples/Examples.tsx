@@ -20,15 +20,15 @@ import Slider from "./Slider/Slider";
 
 const firstPics = {
     pics: [pic1, pic2, pic3, pic4,
-    ], title: "Уют",
+    ], title: "Light house",
 };
 const secondPics = {
     pics: [pic5, pic6, pic7,
-    ], title: "Light house",
+    ], title: "Чемья(сруб)",
 };
 const thirdPics = {
     pics: [pic8, pic9, pic10,
-    ], title: "Чемья(сруб)",
+    ], title: "Уют",
 };
 const fourPics = {
     pics: [pic11, pic12, pic13, pic14,
