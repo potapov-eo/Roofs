@@ -14,6 +14,12 @@ import pic11 from "../assets/image/4/арх футур-Рисунок2_.jpg";
 import pic12 from "../assets/image/4/арх футур-Рисунок3.jpg";
 import pic13 from "../assets/image/4/арх футур-Рисунок4.jpg";
 import pic14 from "../assets/image/4/арх футур-Рисунок5.jpg";
+
+import pic15 from "../assets/image/5/ресторан-Рисунок2.jpg";
+import pic16 from "../assets/image/5/ресторан-Рисунок3.jpg";
+import pic17 from "../assets/image/5/ресторан-Рисунок4.jpg";
+
+
 import Grid from '@material-ui/core/Grid';
 import Slider from "./Slider/Slider";
 
@@ -34,7 +40,13 @@ const fourPics = {
     pics: [pic11, pic12, pic13, pic14,
     ], title: "Эмоция",
 };
-const allPics = [firstPics, secondPics, thirdPics, fourPics];
+const fivePics = {
+    pics: [pic15, pic16, pic17,
+    ], title: "Ресторан, кафе, дегустационный зал",
+};
+
+
+const allPics = [firstPics, secondPics, thirdPics, fourPics, fivePics];
 
 function Examples () {
     return (
